@@ -8,3 +8,6 @@ To run the program, make sure to have GL/glut library installed for C.<br>
 Install using sudo apt-get install freeglut3-dev on linux.<br>
 To run, first compile the code using the command cc fish3.c <br>
 Then run the executable generated using ./a.out <br>
+![image](https://user-images.githubusercontent.com/43028365/148111683-19a0b29e-0072-4592-ab98-12ef5a57343d.png)
+
+![image](https://user-images.githubusercontent.com/43028365/148111782-24f0ed0f-48b3-4cbf-96d0-1bf9cd54e3c9.png)
